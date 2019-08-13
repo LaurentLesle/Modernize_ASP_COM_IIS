@@ -37,3 +37,9 @@ ServiceMonitor is a Windows executable designed to be used as the entrypoint pro
 ServiceMonitor monitors the status of the w3svc service and will exit when the service state changes from SERVICE_RUNNING to either one of SERVICE_STOPPED, SERVICE_STOP_PENDING, SERVICE_PAUSED or SERVICE_PAUSE_PENDING.
 
 More details on https://github.com/microsoft/IIS.ServiceMonitor
+
+
+### Credits
+https://github.com/nzregs/vb6MathLib
+
+https://github.com/CSEANZ/WindowsContainers
